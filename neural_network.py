@@ -1,5 +1,4 @@
 import numpy as np
-import self as self
 
 
 def sigmoid(x):
