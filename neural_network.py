@@ -26,4 +26,3 @@ class SnakeGame:
             self.snake_append((head[0],head[1]-1))
         elif self.last_move == 'd':
             self.snake_append((head[0],head[1]+1))
-            

@@ -3,7 +3,7 @@
 from typing import Dict, Union
 import random
 from flask import Flask
-
+import neural_network
 import json
 
 moves = ["up", "down", "left", "right"]
